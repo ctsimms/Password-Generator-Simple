@@ -9,4 +9,6 @@ Enter how many letters you want in the password.
 
 Enter how many numbers you want in the password.
 
-Passwords must be a minimum of 6 characetrs long.
+Passwords must be a minimum of 6 characters long.
+
+The script will then print out the password.
